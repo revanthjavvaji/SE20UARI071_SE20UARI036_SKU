@@ -11,7 +11,8 @@ The code uses a dataset named `train.csv`, which contains the following columns:
 - Weekly_Sales: Weekly sales amount
 - IsHoliday: Indicator for special holiday weeks
 
-`train.csv` is taken from Kaggle.The code preprocesses the data by handling missing values and encoding the `IsHoliday` column.
+`train.csv` is taken from Kaggle.
+The code preprocesses the data by handling missing values and encoding the `IsHoliday` column.
 
 Source:  [Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data?select=train.csv.zip)
 
